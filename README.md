@@ -32,8 +32,8 @@ This project is a web-based image deduplication system using FastAPI for the bac
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/image-deduplication.git
-cd image-deduplication
+git clone https://github.com/vivek-ptk/Duplicate-Image-Identification-System.git
+cd Duplicate-Image-Identification-System
 ```
 
 ### 2️⃣ Backend Setup (FastAPI)
