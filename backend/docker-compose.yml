@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  image-dedup-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./stored_images:/app/stored_images
+    restart: always
