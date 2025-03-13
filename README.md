@@ -97,10 +97,6 @@ Removes an image from storage and FAISS index.
 |-------------|--------------|
 | ![Gallery](screenshots/gallery.png) | ![Preview](screenshots/preview.png) |
 
----
-
-## 📜 License
-This project is open-source and available under the MIT License.
 
 ---
 
